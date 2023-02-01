@@ -7,7 +7,7 @@ I'm Faraz Ahmed a Frontend Web Developer, aiming to be Full Stack Web Developer.
 - 🔭 I’m currently working at @ViaRika
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: farazahmedk955@gmail.com.
-- 😄 Pronouns: Fari, Mr.Programmer.
+- 😄 Pronouns: Fari
 - ⚡ Hobbies: i love coding and playing video games.
 
 #### Top Technologies
