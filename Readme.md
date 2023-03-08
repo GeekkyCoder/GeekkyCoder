@@ -4,7 +4,7 @@ I'm Faraz Ahmed a Frontend Web Developer, aiming to be Full Stack Web Developer.
 
 <!-- TODO: Add last video link -->
 
-- 🔭BSC- Computer Science
+- 🔭 Computer Science Undergrad
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: farazahmedk955@gmail.com.
 - 😄 Pronouns: Fari
