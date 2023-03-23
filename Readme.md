@@ -4,7 +4,7 @@ I'm Faraz Ahmed, A Full Stack Web Developer. I Spend most of time coding and mak
 
 <!-- TODO: Add last video link -->
 
-- 🔭 Computer Science Undergrad
+- 🔭 Computer Science Undergrade
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: farazahmedk955@gmail.com.
 - 😄 Pronouns: Fari
