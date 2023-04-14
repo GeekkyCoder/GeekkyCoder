@@ -26,16 +26,17 @@ I'm Faraz Ahmed, A Full Stack Web Developer. I Spend most of time coding and mak
 </summary>
 
 <br >
-
 i love reading coding blogs to keep myself up to date with the new technologies and trends, i work with frontend and backend technologies following mern stack, mostly i love doing backend stuff i find it fun, i love the Nodejs's event driven paradigm!
+  
+<br>
+ 
+  <p>want to know more about me</p>
+  <a href="https://faraz-personal-portfolio.netlify.app/">portfolio</a>
+  <a href="https://www.linkedin.com/in/faraz-ahmed-27379a235/">linkedin</a>
+  <a href="https://twitter.com/potato_prgramer">twitter</a>
 
 </br>
 </br>
-
-
-
-<strong style="text-transform:uppercase">dont touch the DOM, i will do it 😆</strong>
-
 
 #### Github Stats
 
