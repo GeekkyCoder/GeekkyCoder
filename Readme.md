@@ -27,15 +27,8 @@ I'm Faraz Ahmed, A Full Stack Web Developer. I Spend most of time coding and mak
 
 <br >
 
-i love reading coding blogs to keep myself up to date with the new technologies and trends, i work with ReactJS mostly and absolultely love the React eco system and its Component Architecture!
+i love reading coding blogs to keep myself up to date with the new technologies and trends, i work with frontend and backend technologies following mern stack, mostly i love doing backend stuff i find it fun, i love the Nodejs's event driven paradigm!
 
-<h2 style="color:limegreen;font-weight:bold;text-transform:uppercase">Why i love React ?</h2>
-<strong style="color:#666666;text-transform:uppercase;display:block;font-size:20px">Unilateral-data-flow:</strong>
-<strong>The data is shared from top to bottom , parent to its child and if the data changes anywhere in a certain components, React re-render the DOM adn show the updated content! allowing us to write declarative code! </strong>
-</br>
-</br>
-<strong style="color:#666666;text-transform:uppercase;display:block;font-size:20px">Component-Architecture:</strong>
-<strong>React's component architecture is what makes its unique, we can re-use the existing components anywhere in the DOM, there are several packages exist for a certain task that developers has wrote!</strong>
 </br>
 </br>
 
