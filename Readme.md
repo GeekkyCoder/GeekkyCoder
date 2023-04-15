@@ -28,7 +28,7 @@ i love reading coding blogs to keep myself up to date with the new technologies 
 </br>
 </br>
 
-  <p>want to know more about me</p>
+  <p>want to know more about me ?</p>
    <a href="https://www.hackerrank.com/farazahmedk955">4 Star Problem Solver On HackerRank</a>
     
   <a href="https://faraz-personal-portfolio.netlify.app/">portfolio</a>
