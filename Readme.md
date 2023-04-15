@@ -31,7 +31,9 @@ i love reading coding blogs to keep myself up to date with the new technologies 
   <p>want to know more about me ?</p>
    <a href="https://www.hackerrank.com/farazahmedk955">4 Star Problem Solver On HackerRank</a>
    </br>
-  <a href="https://www.frontendmentor.io/profile/GeekkyCoder">Frontend Mentor Profile</a>
+   <a href="https://leetcode.com/GeekkyCoder/">LeetCode Profile</a>
+  </br>
+    <a href="https://www.frontendmentor.io/profile/GeekkyCoder">Frontend Mentor Profile</a>
   </br>
   <a href="https://faraz-personal-portfolio.netlify.app/">portfolio</a>
   </br>
