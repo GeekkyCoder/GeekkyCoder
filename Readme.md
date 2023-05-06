@@ -50,6 +50,6 @@ i love reading coding blogs to keep myself up to date with the new technologies 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=GeekkyCoder&count_private=false&theme=tokyonight)
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeekkyCoder)](https://github.com/GeekkyCoder/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeekkyCoder )](https://github.com/GeekkyCoder/github-readme-stats)
 
 </details>
