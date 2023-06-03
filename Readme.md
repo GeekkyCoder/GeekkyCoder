@@ -29,7 +29,7 @@ i love reading coding blogs to keep myself up to date with the new technologies 
 </br>
 
   <p>want to know more about me ?</p>
-   <a href="https://www.hackerrank.com/farazahmedk955">5 Star Problem Solver On HackerRank</a>
+   <a href="https://www.hackerrank.com/geekkycoder?hr_r=1">5 Star Problem Solver On HackerRank</a>
    </br>
    <a href="https://leetcode.com/GeekkyCoder/">LeetCode Profile</a>
   </br>
