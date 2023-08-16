@@ -35,7 +35,7 @@ i love reading coding blogs to keep myself up to date with the new technologies 
   </br>
     <a href="https://www.frontendmentor.io/profile/GeekkyCoder">Frontend Mentor Profile</a>
   </br>
-  <a href="https://faraz-personal-portfolio.netlify.app/">portfolio</a>
+  <a href="https://farazdev.netlify.app">portfolio</a>
   </br>
   <a href="https://www.linkedin.com/in/faraz-ahmed-27379a235/">linkedin</a>
   </br>
