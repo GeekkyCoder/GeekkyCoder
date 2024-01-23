@@ -4,7 +4,7 @@ A Full Mern Stack Web Developer. I Spend most of time coding and making fun proj
 
 <!-- TODO: Add last video link -->
 
-- 🔭 Computer Science Undergrade
+- 🔭 BSc Computer Science
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: farazahmedk955@gmail.com.
 - 😄 Pronouns: Fari
