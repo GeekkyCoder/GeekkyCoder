@@ -7,7 +7,6 @@ Software Engineer, I Spend most of time coding and making fun projects!
 - 🔭 BSc Computer Science
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: farazahmedk955@gmail.com.
-- 😄 Pronouns: Fari
 - ⚡ Hobbies: i love coding and playing video games.
 
 #### Top Technologies
